@@ -1,10 +1,10 @@
+#FAZENDO UMA ALTERAÇÃO DE TESTE!
 #Utilizando estruturas condicionais faça um programa
 #que pergunte ao usuário dois números e mostre:
 # A soma deles;
 # A multiplicação entre eles;
 # A divisão inteira deles;
 # Mostre na tela qual é o maior;
-#FAZENDO UMA ALTERAÇÃO DE TESTE!
 # Verifique se o resultado da soma é par ou impar
 # e mostre na tela;
 # Se a multiplicação entre eles for maior que 40, 
